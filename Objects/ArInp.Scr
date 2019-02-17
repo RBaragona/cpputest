@@ -1,0 +1,20 @@
+--create .\Objects\cpputest_library.lib
+.\objects\commandlinearguments.o
+.\objects\commandlinetestrunner.o
+.\objects\junittestoutput.o
+.\objects\memoryleakdetector.o
+.\objects\memoryleakwarningplugin.o
+.\objects\simplemutex.o
+.\objects\simplestring.o
+.\objects\teamcitytestoutput.o
+.\objects\testfailure.o
+.\objects\testfilter.o
+.\objects\testharness_c.o
+.\objects\testmemoryallocator.o
+.\objects\testoutput.o
+.\objects\testplugin.o
+.\objects\testregistry.o
+.\objects\testresult.o
+.\objects\testtestingfixture.o
+.\objects\utest.o
+.\objects\utestplatform.o
